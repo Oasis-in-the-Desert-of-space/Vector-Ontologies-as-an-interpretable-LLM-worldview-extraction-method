@@ -1,5 +1,8 @@
 # Vector-Ontologies-as-an-interpretable-LLM-worldview-extraction-method
 
+
+This is the data and code directory for the paper: https://arxiv.org/abs/2506.13252
+
 ## Data
 
 The data is expected to be in the 'Data' folder in the following format:
